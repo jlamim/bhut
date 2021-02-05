@@ -1,0 +1,18 @@
+{
+    "name": "jlamim/bhut",
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "description": "BHUT Challenge - Backend Developer",
+    "authors": [
+        {
+            "name": "Jonathan Lamim Antunes",
+            "email": "contato@jonathanlamim.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bhut\\": "src/"
+        }
+    }
+}
